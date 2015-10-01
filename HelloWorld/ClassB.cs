@@ -9,5 +9,6 @@ namespace HelloWorld
     class ClassB
     {
         string something { get; }
+        string anything { get; }
     }
 }
