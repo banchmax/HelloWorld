@@ -9,5 +9,7 @@ namespace HelloWorld
     public class ClassA
     {
         int some { get; }
+
+        int any { get; }
     }
 }
